@@ -1,0 +1,7 @@
+{
+    "greeting": "Bonjour Bienvenue!",
+    "description": {
+        "line1": "Direction of LAnguage: <1>{{dvalue}}</1>",
+        "line2": "Lorem Ipsum est tout simplement un faux texte de l’industrie de l’imprimerie et de la composition."
+    }
+}
